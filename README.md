@@ -1,0 +1,2 @@
+- API ViaCEP
+  - Consulta de endereço via CEP.
